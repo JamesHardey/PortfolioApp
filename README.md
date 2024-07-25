@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# James Hardey - Software Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my professional portfolio showcasing my skills and projects in software development, Android development, and desktop application creation.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+I'm James Hardey, a passionate and versatile software developer with expertise in:
 
-### `npm start`
+- Full-stack web development
+- Android mobile app development
+- Desktop application development
+- Cross-platform solutions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Featured Projects
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Web Development
+1. **[Project Name]** - Brief description
+2. **[Project Name]** - Brief description
 
-### `npm test`
+### Android Development
+1. **[App Name]** - Brief description
+2. **[App Name]** - Brief description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Desktop Applications
+1. **[Application Name]** - Brief description
+2. **[Application Name]** - Brief description
 
-### `npm run build`
+## Skills
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Languages:** Java, Kotlin, JavaScript, Python, C++
+- **Frameworks/Libraries:** React, Node.js, Spring Boot, Android SDK
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, Docker, Jenkins, AWS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Experience
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**[Company Name]** - *[Job Title]*  
+*[Date range]*
+- Key accomplishment
+- Key accomplishment
 
-### `npm run eject`
+**[Company Name]** - *[Job Title]*  
+*[Date range]*
+- Key accomplishment
+- Key accomplishment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Education
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**[Degree]** in [Field of Study]  
+*[University Name], [Graduation Year]*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+I'm always interested in new opportunities and collaborations. Feel free to reach out:
 
-## Learn More
+- Email: james.hardey@example.com
+- LinkedIn: [Your LinkedIn profile URL]
+- GitHub: [Your GitHub profile URL]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Blog
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Check out my latest thoughts and tutorials on software development:
 
-### Code Splitting
+1. **[Blog Post Title]** - Brief description
+2. **[Blog Post Title]** - Brief description
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my portfolio. I'm constantly updating it with new projects and skills, so please check back often!
